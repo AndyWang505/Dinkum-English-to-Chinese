@@ -1,0 +1,154 @@
+[
+    {
+        "Ori": "Talking to people every day will increase your friendship with them.",
+        "Loc": "每天與人交談會增進你與他們的友誼。"
+    },
+    {
+        "Ori": "Promising to complete a task and not delivering isn』t a good idea.",
+        "Loc": "承諾完成的事情做不到不是一件好事。"
+    },
+    {
+        "Ori": "The better you are at a skill, the less stamina you』ll use doing it.",
+        "Loc": "你的技能等級越高，你做這件事消耗的體力就越小。"
+    },
+    {
+        "Ori": "Swimming for too long can be hazardous to your health.",
+        "Loc": "游泳太長時間會對你的健康有害。"
+    },
+    {
+        "Ori": "If it』s shiny, it』s probably worth something.",
+        "Loc": "如果有東西閃閃發光，它可能很值錢。"
+    },
+    {
+        "Ori": "Almost anything can be sold, but not everything can be bought.",
+        "Loc": "幾乎任何東西都可以賣，但不是所有東西都可以買到。"
+    },
+    {
+        "Ori": "Tools will break if you use them too much.",
+        "Loc": "工具用久了之後就會損壞。"
+    },
+    {
+        "Ori": "Crafted items tend to be more valuable than their ingredients.",
+        "Loc": "手工製作的物品往往比其原料更有價值。"
+    },
+    {
+        "Ori": "Passing out will do damage to your tools.",
+        "Loc": "昏倒會損壞你的工具耐久度。"
+    },
+    {
+        "Ori": "If you need a bed, Fletch keeps sleeping bags in the Base Tent.",
+        "Loc": "如果你需要一張床，Fletch會把一些睡袋放在帳篷里。"
+    },
+    {
+        "Ori": "Digging is real fun. Digging is real fun. Digging is real fun.",
+        "Loc": "挖掘真的很有趣。挖掘真的很有趣。挖掘真的很有趣。"
+    },
+    {
+        "Ori": "Sharks are only tough when they are in the water.",
+        "Loc": "鯊魚只有在水裡才兇殘。"
+    },
+    {
+        "Ori": "Sometimes trees can drop other items.",
+        "Loc": "有時樹木會掉落其他物品。"
+    },
+    {
+        "Ori": "Wild animals can be kept in a pen if you fence them off.",
+        "Loc": "如果你把野生動物圍起來，就可以把它們關在圍欄里。"
+    },
+    {
+        "Ori": "You can bury items by dropping them on the ground and covering them with dirt.",
+        "Loc": "你可以把物品扔在地上，然後用泥土掩埋起來。"
+    },
+    {
+        "Ori": "Food made at a cooking table will recover more health and stamina.",
+        "Loc": "在烹飪桌上做的食物會恢復更多的健康和體力。"
+    },
+    {
+        "Ori": "You can place carryable items on most vehicles.",
+        "Loc": "您可以在大多數載具上放置可攜帶的物品。"
+    },
+    {
+        "Ori": "Different fish can be found depending on the  season, biome and time of day.",
+        "Loc": "根據季節、地形和時間，可以釣到不同的魚。"
+    },
+    {
+        "Ori": "Staying out late will tire you out.",
+        "Loc": "在外面呆到很晚會使你筋疲力盡。"
+    },
+    {
+        "Ori": "Spring is egg season.",
+        "Loc": "春天是產蛋的季節。"
+    },
+    {
+        "Ori": "A shady visitor might appear on rainy days.",
+        "Loc": "可疑的訪客可能會在雨天出現。"
+    },
+    {
+        "Ori": "Fletch might be able to help you upgrade your home.",
+        "Loc": "Fletch也許能幫你升級你的房子。"
+    },
+    {
+        "Ori": "Animals can be caught in traps easier if they have low health.",
+        "Loc": "如果動物的健康狀況較差，它們會更容易陷入陷阱。"
+    },
+    {
+        "Ori": "Wild Animals will eat your crops if they aren』t fenced off.",
+        "Loc": "如果沒有圍欄，野生動物會吃掉你的農作物。"
+    },
+    {
+        "Ori": "Keep your farm animals safe by fencing them off from predators.",
+        "Loc": "保護你的農場動物免受捕食者的攻擊。"
+    },
+    {
+        "Ori": "Try cooking all sorts of food.",
+        "Loc": "嘗試烹飪各種食物。"
+    },
+    {
+        "Ori": "Wheelbarrows can carry other items besides dirt.",
+        "Loc": "獨輪車可以攜帶除泥土外的其他物品。"
+    },
+    {
+        "Ori": "Use the whistle emote to call farm animals to you.",
+        "Loc": "用口哨表情召喚農場動物。"
+    },
+    {
+        "Ori": "Certain flowers can be placed in a keg.",
+        "Loc": "某些花可以種植在木桶裡。"
+    },
+    {
+        "Ori": "The mines layout shifts and changes every day.",
+        "Loc": "地下礦洞的佈局每天都在變化。"
+    },
+    {
+        "Ori": "Fletch can help you move buildings if you need to.",
+        "Loc": "如果需要，Fletch可以幫助你搬遷建築。"
+    },
+    {
+        "Ori": "Be wary of the Wary Mu.",
+        "Loc": "要警惕鶴鴕。"
+    },
+    {
+        "Ori": "Crops that grow all year are worth less than seasonal crops.",
+        "Loc": "全年生長的作物價值低於季節性作物。"
+    },
+    {
+        "Ori": "You can pick up vehicles by damaging them.",
+        "Loc": "你可以通過攻擊載具來撿起載具。"
+    },
+    {
+        "Ori": "Bats are annoying.",
+        "Loc": "蝙蝠很討厭。"
+    },
+    {
+        "Ori": "Don't leave stuff in the mines if you want to keep it.",
+        "Loc": "如果你想保留東西，就不要把東西留在礦井裡。"
+    },
+    {
+        "Ori": "The travel bag in the Base Tent can be accessed from any island.",
+        "Loc": "基地帳篷中的旅行包里的物品可以從任何島嶼上取用。"
+    },
+    {
+        "Ori": "You will recover stamina slowly if you are full.",
+        "Loc": "如果你吃飽了，你會慢慢恢復體力。"
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "Ori": "Bulletin Board!",
+    "Loc": "公告板！"
+  },
+  {
+    "Ori": "Our town now has a Bulletin board! Please feel free to leave any reminders, announcements or requests here for the town to see!",
+    "Loc": "我們鎮現在有一個公告牌！請隨時在這裡留下任何提醒、公告或請求，供全鎮檢視！"
+  },
+  {
+    "Ori": "<boardHuntRequestAnimal> has been spotted at this location. This is a very dangerous Alpha animal and should only be taken on by an experienced hunter.",
+    "Loc": "<boardHuntRequestAnimal> 已在該位置被發現。這是一種非常危險的阿爾法動物，只能由經驗豐富的獵人來對付。"
+  },
+  {
+    "Ori": "<boardHuntRequestAnimal> Capture Reward",
+    "Loc": "<boardHuntRequestAnimal> 捕獲獎勵"
+  },
+  {
+    "Ori": "There is an increased reward for capturing a <boardHuntRequestAnimal> for a limited time.þþYou will receive your reward the next day in the mail.",
+    "Loc": "在限時內捕獲並出售 <boardHuntRequestAnimal> 會獲得更高的報酬。þþ您將在第二天收到郵件中的報酬。"
+  },
+  {
+    "Ori": "Want to Trade",
+    "Loc": "想要交易"
+  },
+  {
+    "Ori": "I have a <boardRewardItem> I don't want anymore. I'm willing to trade <boardRequestItem> for it.þIf anyone is interested, please come see me.",
+    "Loc": "我有一個我不再想要的<boardRewardItem>。我願意用<boardRequestItem>換它。如果有人感興趣，請來找我。"
+  },
+  {
+    "Ori": "Photo Request",
+    "Loc": "照片請求"
+  },
+  {
+    "Ori": "I would love to see a photo <getAnimalsInPhotoList>.",
+    "Loc": "我想看張 <getAnimalsInPhotoList> 的照片。"
+  },
+  {
+    "Ori": "Cooking some <boardRewardItem>",
+    "Loc": "烹飪一些 <boardRewardItem>"
+  },
+  {
+    "Ori": "I'm making <boardRewardItem> and I'm short <boardRequestItem>!þIf anyone can bring me <boardRequestItem>, I'll happily share some <boardRewardItem> with you!",
+    "Loc": "我在做<boardRewardItem>但是缺少<boardRequestItem>！þ如果有人能給我帶來<boardRequestItem>，我很樂意和你分享一些<boardRewardItem>！"
+  },
+  {
+    "Ori": "Want to practice smelting.",
+    "Loc": "想練習冶煉。"
+  },
+  {
+    "Ori": "I've been smelting ore a bit and I've run out. If anyone can bring me  <boardRequestItem> I'll give them <boardRewardItem> I have laying around.",
+    "Loc": "我一直在熔鍊礦石，但我已經用完了。如果有人能給我帶來<boardRequestItem>，我會給他們<boardRewardItem>，我已經準備好了。"
+  },
+  {
+    "Ori": "Compost Request",
+    "Loc": "堆肥請求"
+  },
+  {
+    "Ori": "I'm making compost. If anyone brings me <boardRequestItem> I'll give them <boardRewardItem>.",
+    "Loc": "我在做堆肥。如果有人給我<boardRequestItem>，我會給他們<boardRewardItem>。"
+  },
+  {
+    "Ori": "Investigation Request",
+    "Loc": "調查請求"
+  },
+  {
+    "Ori": "I swear I saw something fall out of the sky the other night. þþMaybe someone can go check it out?",
+    "Loc": "我發誓那天晚上我看到有東西從天上掉下來。也許有人可以去看看？"
+  },
+  {
+    "Ori": "Crafting Request",
+    "Loc": "製作請求"
+  },
+  {
+    "Ori": "I'm looking for skilled crafter who is able to craft <boardRequestItem> for me.þþReward on delivery!",
+    "Loc": "我正在尋找能夠為我製作<boardRequestItem>的熟練工匠。貨到付款！"
+  },
+  {
+    "Ori": "Shipping Request",
+    "Loc": "發貨請求"
+  },
+  {
+    "Ori": "I need to send a big shipment of <boardRequestItem> back home.þþIf anyone can help me fill this shipment, please come and see me with the goods.",
+    "Loc": "我需要寄一大批<boardRequestItem>回家。þþ如果有人能幫我準備這批貨物，請帶著貨物來找我。"
+  }
+]

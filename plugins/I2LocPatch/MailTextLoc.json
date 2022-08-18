@@ -1,0 +1,134 @@
+[
+  {
+    "Ori": "We have received the animal you sent us! \r\n\r\nThe specimen will be studied and released back into the wild unharmed.\r\n\r\nYour reward is attached.\r",
+    "Loc": "我們收到了您寄送給我們的動物！\r\n\r\n該標本將被研究並會安然無恙地放歸野外。\r\n\r\n您的報酬已附上。\r"
+  },
+  {
+    "Ori": "We have returned your <itemAttachedName>.",
+    "Loc": "我們已退回您的<itemAttachedName>。"
+  },
+  {
+    "Ori": "Hi there!\n\nI wanted to say thanks to everyone who showed off Dinkum and played before launch. I've loved watching all the videos and streams!\n\nI got a gift for you! Don't worry, it didn't cost me too many Dinks.",
+    "Loc": "您好！\n\n我想對所有展示Dinkum並在發佈前玩過的人表示感謝。我喜歡觀看所有的視訊和直播！\n\n我為你準備了一份禮物！別擔心，這並沒有讓我花費太多丁克。"
+  },
+  {
+    "Ori": "Here is the <itemAttachedName> you ordered.",
+    "Loc": "這是您訂購的<itemAttachedName>。"
+  },
+  {
+    "Ori": "Here is the <itemAttachedName> you ordered.\n\nThank you very much.",
+    "Loc": ""
+  },
+  {
+    "Ori": "I've been cooking a little and I had some <itemAttachedName> left over.\n\nHope you like it!",
+    "Loc": "這是您訂購的<itemAttachedName>。\n\n非常感謝。"
+  },
+  {
+    "Ori": "Hey, here is some <itemAttachedName>. Don't worry about how long it's been sitting in your mail box. Eat it! \n\nIt will be fine!",
+    "Loc": "嘿，這裡有一些<itemAttachedName>。不用擔心它在您的郵箱中存放了多長時間。吃吧！\n\n沒事的！"
+  },
+  {
+    "Ori": "It was nice talking to you the other day. Thanks for being a great friend!",
+    "Loc": "前幾天和你聊天很開心。感謝與您成為好朋友！"
+  },
+  {
+    "Ori": "I was hunting Jackaroo. I hope you don't mind it but I sent you some <itemAttachedName>.",
+    "Loc": "我在狩獵袋鼠。我希望你不介意，但我給你寄了一些<itemAttachedName>。"
+  },
+  {
+    "Ori": "Are you eating enough fruit? Just in case I sent you a <itemAttachedName>.",
+    "Loc": "你水果夠吃嗎？以防萬一我給你寄了一個<itemAttachedName>。"
+  },
+  {
+    "Ori": "I saw this <itemAttachedName> and thought it would really suit your house. I hope you like it.",
+    "Loc": "我看到了這個<itemAttachedName>並認為它真的很適合你的房子。我希望你喜歡它。"
+  },
+  {
+    "Ori": "So, I thought you might like <itemAttachedName>. If you don't like it, sell it. That's what I was going to do!",
+    "Loc": "我想你可能會喜歡<itemAttachedName>。如果你不喜歡它，就賣掉它。我也是這麼做的！"
+  },
+  {
+    "Ori": "I hope you like hand-me-downs! Here is a <itemAttachedName>. I haven't worn it for years.",
+    "Loc": "我希望你喜歡二手貨！這是一個<itemAttachedName>。我已經很多年沒穿過了。"
+  },
+  {
+    "Ori": "Just letting you know that I appreciate everything you are doing for our town.",
+    "Loc": "只是讓你知道我很感激你為我們的小鎮所做的一切。"
+  },
+  {
+    "Ori": "Your house looks pretty nice. But don't you think it would look nicer with some <itemAttachedName>? \n\nI'll be sure to peep through your windows to make sure you put it up!",
+    "Loc": "你的房子看起來很漂亮。但是你不覺得增添一些<itemAttachedName>會更好看嗎？\n\n我一定會透過你的窗戶偷看，以確保你把它掛起來！"
+  },
+  {
+    "Ori": "I saw this and thought of you.",
+    "Loc": "我看到了這個，就想到了你。"
+  },
+  {
+    "Ori": "I don't really need this <itemAttachedName>. (To be honest I found it anyway)",
+    "Loc": "我真的不需要這個<itemAttachedName>。（老實說，我還是找到了它）"
+  },
+  {
+    "Ori": "Are you eating enough veggies? Here take this <itemAttachedName>. Eat it. They are good for you!",
+    "Loc": "你蔬菜夠吃了嗎？拿著這個<itemAttachedName>。吃吧，它們對你有好處！"
+  },
+  {
+    "Ori": "I chopped down a tree. I mean, I did it. Me!\nAnyway, I made some <itemAttachedName>. I thought you would have a better use for them.",
+    "Loc": "我砍倒了一棵樹。我的意思是，我做到了，是我！\n無論如何，我做了一些<itemAttachedName>。我認為你會更好地使用它們。"
+  },
+  {
+    "Ori": "I found these floating in the river. \nI know you are always looking for this sort of stuff. So I sent it to you!",
+    "Loc": "我發現這些漂浮在河裡。\n我知道你一直在找這種東西。所以我寄給你了！"
+  },
+  {
+    "Ori": "I grew this <itemAttachedName> myself.\n\nLet me know what you think.",
+    "Loc": "我自己研發了這個<itemAttachedName>。\n\n告訴我你的想法。"
+  },
+  {
+    "Ori": "Here's a bit of pocket money for you. I know it's not much but you do so much for the town. \n\nI wanted to thank you some way.",
+    "Loc": "這裡有一點零花錢給你。我知道這並不多，但你為這個小鎮做了這麼多貢獻。\n\n我想以某種方式感謝你。"
+  },
+  {
+    "Ori": "I think you might have dropped this at my place the other day.\n\nIf you didn't, please be honest and bring it back to me!",
+    "Loc": "我想你前幾天可能把它丟在我家了。\n如果不是你，請說實話，把它還給我！"
+  },
+  {
+    "Ori": "Happy money day!\n\nI'm pretty sure that it's money day... andway, enjoy!",
+    "Loc": "發財日快樂！\n\n我很確定今天是發財日...不管如何，盡情享受吧！"
+  },
+  {
+    "Ori": "I smashed a rock and found some <itemAttachedName>. \n\nYou like this sort of stuff, right?",
+    "Loc": "我敲碎了一塊巖石，發現了一些<itemAttachedName>。\n\n你喜歡這種東西，對吧？"
+  },
+  {
+    "Ori": "I smashed a rock and found some <itemAttachedName>. \n\nYou like this sort of stuff, right?",
+    "Loc": "我敲碎了一塊巖石，發現了一些<itemAttachedName>。\n\n你喜歡這種東西，對吧？"
+  },
+  {
+    "Ori": "<itemAttachedName>, <itemAttachedName>, <itemAttachedName>.\n\n You can never have enough <itemAttachedName>.",
+    "Loc": "<itemAttachedName>, <itemAttachedName>, <itemAttachedName>.\n\n你永遠不會有足夠的<itemAttachedName>."
+  },
+  {
+    "Ori": "Here's a <itemAttachedName>. Put it in your house if you like. I don't mind.",
+    "Loc": "這是一個<itemAttachedName>。如果你願意，可以把它放在你的房子里。我不介意的。"
+  },
+  {
+    "Ori": "I found this <itemAttachedName> in the dirt the other day. \n\nI've seen these before. Do you know what they do?",
+    "Loc": "前幾天我在泥土裡發現了這個<itemAttachedName>。\n\n我以前見過這些。你知道這些是做什麼的嗎？"
+  },
+  {
+    "Ori": "Here's the <itemAttachedName> I wanted to give to you.\n\nYour pockets were full, so I sent it to you instead.",
+    "Loc": "這是我想給你的<itemAttachedName>。\r\n但當時你的口袋已經滿了，所以我把它寄給了你。"
+  },
+  {
+    "Ori": "<b>Here's a fishin' tip for <season></b>!\r\n\nAn undiscovered fish has been spotted in the <biomeName>.\r\n\nIf anyone wants to find it, they should be fishing <timeOfDay>!\r",
+    "Loc": "<b>這是<season></b>的釣魚小技巧！\r\n\n在<biomeName>水域發現了一條未被發現的魚。\r\n\n如果有人想釣到它，他們應該在<timeOfDay>去釣魚 !\r"
+  },
+  {
+    "Ori": "<b>Bug tips for <season></b>\n\nIt was <timeOfDay>. There was a bug in the <biomeName> I've never seen before.\n\nThought you might like to know.\n",
+    "Loc": "<b><season>捕蟲小提示</b>\n\n在<timeOfDay>，<biomeName>地形有一隻我以前從未見過的昆蟲。\n\n你可能想了解一下。\n"
+  },
+  {
+    "Ori": "You've been working hard and I'll tell you what, it hasn't gone unnoticed. \n\nBecause you've been increasing your skills there is a new level of <licenceName> available to you.\n\nCome and see me to apply for it!",
+    "Loc": "你一直在努力工作，我告訴你，並沒有被忽視。\n\n因為您一直在提升自己的技能，所以您可以獲得新等級的<licenceName>。\n\n來找我申請吧！"
+  }
+]

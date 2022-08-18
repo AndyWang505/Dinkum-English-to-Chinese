@@ -1,0 +1,57 @@
+Key,Chinese
+Unknown,未知
+Mangroves,紅樹林(Mangroves)
+Billabong,洼地(Billabong)
+Beach,海灘(Beach)
+Tropics,熱帶(Tropics)
+Bushland,叢林(Bushland)
+Bushlands,叢林(Bushlands)
+Desert,沙漠(Desert)
+PineForest,松林(PineForest)
+Pine Forest,松林(Pine Forest)
+Plains,平原(Plains)
+Ocean,海洋(Ocean)
+Rough Soil,粗糙土地(Rough Soil)
+River,河流(River)
+BillabongWater,洼地水域(BillabongWater)
+BillabongBank,洼地斜坡(BillabongBank)
+RockyIsland,巖石小島(RockyIsland)
+WarmOcean,暖洋(WarmOcean)
+ColdOcean,冷洋(ColdOcean)
+OceanShallows,海洋淺灘(OceanShallows)
+Quary,採石機(Quary)
+CassowaryNest,鶴鴕窩(CassowaryNest)
+BunyipDen,(水生怪物巢穴)BunyipDen
+DingoDen,野狗巢穴(DingoDen)
+ShellSpace,珍珠貝殼裡(ShellSpace)
+Free Camera,自由視角
+Build Camera,建造視角
+ Crafting Table,製作桌
+ Cooking Table,烹飪桌
+ Repair Table,修理桌
+Pick Up,拾起
+Check,檢視
+Select Amount,選擇數量
+Split Stack,拆分
+Quick Move,快速轉移
+Place One,放下一個
+Dive,潛水
+Reel In,收線
+Release,放開
+northen oceans,北方海洋
+southern oceans,南方海洋
+rivers,河流
+mangroves,紅樹林
+billabongs,洼地
+the tropics,熱帶
+the desert,沙漠
+the bushlands,叢林
+the pine forests,松林
+the plains,平原
+the ocean,海洋
+Farming,種植
+Foraging,覓食
+Mining,挖礦
+Fishing,釣魚
+BugCatching,捕蟲
+Hunting,狩獵

@@ -1,0 +1,882 @@
+[
+  {
+    "Text": "返回",
+    "Bind": "MapCanvas/BackHint/Text"
+  },
+  {
+    "Text": "退出遊戲",
+    "Bind": "Quit To Desktop/Text"
+  },
+  {
+    "Text": "設定",
+    "Bind": "OptionWindow/Content/Title (1)"
+  },
+  {
+    "Text": "顯示",
+    "Bind": "Screen/Title (1)/TitleText"
+  },
+  {
+    "Text": "全屏",
+    "Bind": "Screen/FullScreen/Label"
+  },
+  {
+    "Text": "解析度",
+    "Bind": "Screen/Resolution/Label"
+  },
+  {
+    "Text": "應用",
+    "Bind": "Screen/Resolution/Apply/ApplyLabel"
+  },
+  {
+    "Text": "UI縮放",
+    "Bind": "Screen/UI Scale/Label"
+  },
+  {
+    "Text": "預設",
+    "Bind": "Screen/UI Scale/Normal/ApplyLabel"
+  },
+  {
+    "Text": "寬",
+    "Bind": "Screen/UI Scale/Wide/ApplyLabel"
+  },
+  {
+    "Text": "渲染質量",
+    "Bind": "Screen/Quality/Label (1)"
+  },
+  {
+    "Text": "低",
+    "Bind": "Screen/Quality/QualityButton 0/Label"
+  },
+  {
+    "Text": "中",
+    "Bind": "Screen/Quality/QualityButton 1/Label"
+  },
+  {
+    "Text": "高",
+    "Bind": "Screen/Quality/QualityButton 2/Label"
+  },
+  {
+    "Text": "區塊顯示距離",
+    "Bind": "Screen/ChunkDistance/Label (1)"
+  },
+  {
+    "Text": "聲音",
+    "Bind": "Sound/Title/TitleText"
+  },
+  {
+    "Text": "總音量",
+    "Bind": "Sound/Master/Sound Effect Title"
+  },
+  {
+    "Text": "音效",
+    "Bind": "Sound/Effects/Sound Effect Title"
+  },
+  {
+    "Text": "UI音量",
+    "Bind": "Sound/UI Volume/Sound Effect Title"
+  },
+  {
+    "Text": "音樂音量",
+    "Bind": "Sound/Music/Music Title"
+  },
+  {
+    "Text": "啟用角色語音",
+    "Bind": "Sound/VoicesOn/Label"
+  },
+  {
+    "Text": "攝像機",
+    "Bind": "Camera Controls/Camera/TitleText"
+  },
+  {
+    "Text": "反轉自由鏡頭",
+    "Bind": "Camera Controls/Invert/Lable"
+  },
+  {
+    "Text": "反轉X",
+    "Bind": "Camera Controls/Invert/InvertX"
+  },
+  {
+    "Text": "反轉Y",
+    "Bind": "Camera Controls/Invert/InvertY"
+  },
+  {
+    "Text": "按住滑鼠中鍵或者shift移動鏡頭",
+    "Bind": "Camera Controls/CameraToggle (1)/Lable"
+  },
+  {
+    "Text": "滑鼠一直移動鏡頭",
+    "Bind": "Camera Controls/CameraToggle/Lable"
+  },
+  {
+    "Text": "遊戲",
+    "Bind": "Controls/Title (1)/TitleText"
+  },
+  {
+    "Text": "手柄震動",
+    "Bind": "Controls/Rumble/Text"
+  },
+  {
+    "Text": "對齊游標到UI(僅控制器)",
+    "Bind": "Controls/SnapCursorCheckBox/Text"
+  },
+  {
+    "Text": "文字速度",
+    "Bind": "Controls/TextSpeed/Label (1)"
+  },
+  {
+    "Text": "普通",
+    "Bind": "Controls/TextSpeed/TextSpeed 0/Label"
+  },
+  {
+    "Text": "快速",
+    "Bind": "Controls/TextSpeed/TextSpeed 1/Label"
+  },
+  {
+    "Text": "超快",
+    "Bind": "Controls/TextSpeed/TextSpeed 2/Label"
+  },
+  {
+    "Text": "自動檢測控制器",
+    "Bind": "Controls/CharacterNameTagToggle (1)/Lable"
+  },
+  {
+    "Text": "線上名字標籤",
+    "Bind": "Controls/CharacterNameTagToggle/Lable"
+  },
+  {
+    "Text": "單人遊戲",
+    "Bind": "LoadGameWindow/Contents/Title"
+  },
+  {
+    "Text": "隨機",
+    "Bind": "CharCreator/Content/CharImage/Randomise/Text"
+  },
+  {
+    "Text": "你的名字是？",
+    "Bind": "CharCreator/Content/CreatorBack/Confirm/CharNameTitle"
+  },
+  {
+    "Text": "你的島的名字是？",
+    "Bind": "CharCreator/Content/CreatorBack/Confirm/IslandNameTitle"
+  },
+  {
+    "Text": "建立角色",
+    "Bind": "CharCreator/Content/CreatorBack/Confirm/CreateCharacter/Text"
+  },
+  {
+    "Text": "確認",
+    "Bind": "CharCreator/Content/WindowBack (3)/TopBar/Confirm/Text (3)"
+  },
+  {
+    "Text": "里程碑",
+    "Bind": "Journal/Tabs/Milestones/Text"
+  },
+  {
+    "Text": "里程碑",
+    "Bind": "Journal/SelectedTab/Milestones/Text"
+  },
+  {
+    "Text": "里程碑",
+    "Bind": "Journal/Pages/Milestones/NutBack/DailyTasksTitle"
+  },
+  {
+    "Text": "任務",
+    "Bind": "Journal/Tabs/Task/Text"
+  },
+  {
+    "Text": "任務",
+    "Bind": "Journal/SelectedTab/Task/Text"
+  },
+  {
+    "Text": "任務",
+    "Bind": "Journal/Pages/QuestWindow/NutBack/Title"
+  },
+  {
+    "Text": "任務",
+    "Bind": "Journal/Pages/QuestWindow/QuestsTracker/NoQuestsWindow/NutBack (1)/Title"
+  },
+  {
+    "Text": "任務",
+    "Bind": "Journal/Pages/QuestWindow/Contents/TopBar/TitleText"
+  },
+  {
+    "Text": "圖鑑",
+    "Bind": "Journal/Tabs/Pedia/Text"
+  },
+  {
+    "Text": "圖鑑",
+    "Bind": "Journal/SelectedTab/Pedia/Text"
+  },
+  {
+    "Text": "圖鑑",
+    "Bind": "Journal/Pages/Pedia/NutBack/Title"
+  },
+  {
+    "Text": "我的資訊",
+    "Bind": "Journal/Tabs/PlayerDetails/Text"
+  },
+  {
+    "Text": "我的資訊",
+    "Bind": "Journal/SelectedTab/PlayerDetails/Text"
+  },
+  {
+    "Text": "我的資訊",
+    "Bind": "Journal/Pages/PlayerDetails/NutBack/Title"
+  },
+  {
+    "Text": "照片",
+    "Bind": "Journal/Tabs/Photos/Text"
+  },
+  {
+    "Text": "照片",
+    "Bind": "Journal/SelectedTab/Photos/Text"
+  },
+  {
+    "Text": "照片",
+    "Bind": "Journal/Pages/PhotosTab/NutBack (1)/Title"
+  },
+  {
+    "Text": "動物",
+    "Bind": "Journal/Tabs/FarmAnimals/Text"
+  },
+  {
+    "Text": "動物",
+    "Bind": "Journal/SelectedTab/FarmAnimal/Text"
+  },
+  {
+    "Text": "動物",
+    "Bind": "Journal/Pages/FarmAnimalTab/NutBack (1)/DailyTasksTitle"
+  },
+  {
+    "Text": "選項",
+    "Bind": "Journal/Tabs/Options/Text"
+  },
+  {
+    "Text": "選項",
+    "Bind": "Journal/SelectedTab/Options/Text"
+  },
+  {
+    "Text": "選項",
+    "Bind": "Journal/Pages/Options/NutBack/Title"
+  },
+  {
+    "Text": "每日裡程碑",
+    "Bind": "Journal/Pages/Milestones/DailyTasks/DailyTaskTitle/Title"
+  },
+  {
+    "Text": "魚",
+    "Bind": "Journal/Pages/Pedia/SideButtons/FishButton/Title"
+  },
+  {
+    "Text": "蟲",
+    "Bind": "Journal/Pages/Pedia/SideButtons/BugButton/Title (1)"
+  },
+  {
+    "Text": "水下生物",
+    "Bind": "Journal/Pages/Pedia/SideButtons/UnderwaterCreatures/Title (1)"
+  },
+  {
+    "Text": "文物",
+    "Bind": "Journal/Pages/Pedia/SideButtons/RelicButton/Title (1)"
+  },
+  {
+    "Text": "動物",
+    "Bind": "Journal/Pages/Pedia/SideButtons/Animals/Title (1)"
+  },
+  {
+    "Text": "人物",
+    "Bind": "Journal/Pages/Pedia/SideButtons/People Button/Title (1)"
+  },
+  {
+    "Text": "配方",
+    "Bind": "Journal/Pages/Pedia/SideButtons/Recipes/Title (1)"
+  },
+  {
+    "Text": "許可證",
+    "Bind": "Journal/Pages/Pedia/SideButtons/Licences/Title (1)"
+  },
+  {
+    "Text": "ID卡",
+    "Bind": "Journal/Pages/PlayerDetails/SideButtons/MyId/Title"
+  },
+  {
+    "Text": "許可證",
+    "Bind": "Journal/Pages/PlayerDetails/SideButtons/Licences/Title"
+  },
+  {
+    "Text": "種植",
+    "Bind": "Journal/Pages/PlayerDetails/Contents/PlayerDetailMask/MyId/FarmingLevel/Text"
+  },
+  {
+    "Text": "覓食",
+    "Bind": "Journal/Pages/PlayerDetails/Contents/PlayerDetailMask/MyId/ForagingLevel/Text"
+  },
+  {
+    "Text": "挖礦",
+    "Bind": "Journal/Pages/PlayerDetails/Contents/PlayerDetailMask/MyId/MiningLevel/Text"
+  },
+  {
+    "Text": "釣魚",
+    "Bind": "Journal/Pages/PlayerDetails/Contents/PlayerDetailMask/MyId/FishingLevel/Text"
+  },
+  {
+    "Text": "狩獵",
+    "Bind": "Journal/Pages/PlayerDetails/Contents/PlayerDetailMask/MyId/HuntingLevel/Text"
+  },
+  {
+    "Text": "捕蟲",
+    "Bind": "Journal/Pages/PlayerDetails/Contents/PlayerDetailMask/MyId/BugCatchingLevel/Text"
+  },
+  {
+    "Text": "全",
+    "Bind": "Journal/Pages/FarmAnimalTab/AnimalSelection/AllButton/AnimalIcon"
+  },
+  {
+    "Text": "設定",
+    "Bind": "Journal/Pages/Options/Contents/SideButtons/Settings/Title"
+  },
+  {
+    "Text": "返回主界面",
+    "Bind": "Journal/Pages/Options/Contents/SideButtons/ReturnToMenu/Title"
+  },
+  {
+    "Text": "返回桌面",
+    "Bind": "Journal/Pages/Options/Contents/SideButtons/Return To Desktop/Title"
+  },
+  {
+    "Text": "取消",
+    "Bind": "Journal/Pages/Options/Contents/ConfirmQuit/Cancel/Title"
+  },
+  {
+    "Text": "退出",
+    "Bind": "Journal/Pages/Options/Contents/ConfirmQuit/Quit/Title"
+  },
+  {
+    "Text": "捕捉數量",
+    "Bind": "Journal/Pages/PediaFullScreen/Contents/DetailGrid/Amount Caught/Amount Caught (1)/TitleText"
+  },
+  {
+    "Text": "棲息地",
+    "Bind": "Journal/Pages/PediaFullScreen/Contents/DetailGrid/Habitiat/Amount Caught (2)/TitleText"
+  },
+  {
+    "Text": "出沒時間",
+    "Bind": "Journal/Pages/PediaFullScreen/Contents/DetailGrid/Times/Amount Caught (2)/TitleText"
+  },
+  {
+    "Text": "季節",
+    "Bind": "Journal/Pages/PediaFullScreen/Contents/DetailGrid/Season/Amount Caught (2)/TitleText"
+  },
+  {
+    "Text": "確定要退出嗎？",
+    "Bind": "Journal/Pages/Options/Contents/ConfirmQuit/Title (1)"
+  },
+  {
+    "Text": "你將失去上次睡覺以來的所有進度。",
+    "Bind": "Journal/Pages/Options/Contents/ConfirmQuit/UI"
+  },
+  {
+    "Text": "多人遊戲",
+    "Bind": "MenuScreen/LoadGameWindowMultiplayer/Contents/Title (1)"
+  },
+  {
+    "Text": "多人遊戲",
+    "Bind": "MenuScreen/Multiplayer/Contents/Title (2)"
+  },
+  {
+    "Text": "主持遊戲",
+    "Bind": "MenuScreen/Multiplayer/Contents/WindowBack (4)/FakeButtons/Host Game/Text"
+  },
+  {
+    "Text": "主持遊戲",
+    "Bind": "MenuScreen/Multiplayer/Contents/WindowBack (4)/RealButtons/Host Game/Text"
+  },
+  {
+    "Text": "加入遊戲",
+    "Bind": "MenuScreen/Multiplayer/Contents/WindowBack (4)/FakeButtons/FriendsGames/Text"
+  },
+  {
+    "Text": "加入遊戲",
+    "Bind": "MenuScreen/Multiplayer/Contents/WindowBack (4)/RealButtons/FriendsGames/Text"
+  },
+  {
+    "Text": "LAN/IP連線",
+    "Bind": "MenuScreen/Multiplayer/Contents/WindowBack (4)/FakeButtons/DirectConnect/Text (1)"
+  },
+  {
+    "Text": "LAN/IP連線",
+    "Bind": "MenuScreen/Multiplayer/Contents/WindowBack (4)/RealButtons/DirectConnect/Text (1)"
+  },
+  {
+    "Text": "朋友列表中的任何人都可以加入此遊戲！\n確保您和您的朋友的steam好友系統已設定為線上。",
+    "Bind": "MenuScreen/Multiplayer/Contents/Host Game /ServerExplaination/FriendOnlyGame"
+  },
+  {
+    "Text": "只有您邀請的人才能加入。\n使用steam來邀請人們。",
+    "Bind": "MenuScreen/Multiplayer/Contents/Host Game /ServerExplaination/InviteGame"
+  },
+  {
+    "Text": "任何人都可以加入這個世界。<color=red>他們可以拿走你的東西，所以要小心！",
+    "Bind": "MenuScreen/Multiplayer/Contents/Host Game /ServerExplaination/PublicGame"
+  },
+  {
+    "Text": "使用區域網主持遊戲。在LAN/IP連線選項卡中輸入本地IP以加入。",
+    "Bind": "MenuScreen/Multiplayer/Contents/Host Game /ServerExplaination/LANGame"
+  },
+  {
+    "Text": "主持遊戲",
+    "Bind": "MenuScreen/Multiplayer/Contents/Host Game /SaveSlot/HostButton/Text"
+  },
+  {
+    "Text": "重新整理列表",
+    "Bind": "MenuScreen/Multiplayer/Contents/SearchForGame/RefreshTitle"
+  },
+  {
+    "Text": "搜索中...",
+    "Bind": "MenuScreen/Multiplayer/Contents/SearchForGame/SlotMask (1)/SlotScrollArea/LoadingBar/Searching"
+  },
+  {
+    "Text": "IP地址",
+    "Bind": "MenuScreen/Multiplayer/Contents/DirectConnect/Title (2)"
+  },
+  {
+    "Text": "加入",
+    "Bind": "MenuScreen/Multiplayer/Contents/DirectConnect/JoinButton/Text"
+  },
+  {
+    "Text": "配方",
+    "Bind": "CraftWindow/Contents/CraftBox/RecipeIngredients/Name (1)"
+  },
+  {
+    "Text": "接受",
+    "Bind": "BullitenBoard/Content/FullScreenTask/Accept/AcceptedText"
+  },
+  {
+    "Text": "已接受",
+    "Bind": "BullitenBoard/Content/FullScreenTask/AcceptedDeactivated/AcceptedText"
+  },
+  {
+    "Text": "你昏倒了！",
+    "Bind": "MapCanvas/ReviveWindow/TopNotification (1)/Content/Verticle/Text"
+  },
+  {
+    "Text": "復活",
+    "Bind": "MapCanvas/ReviveWindow/ReviveButton/Passed Out Text (1)"
+  },
+  {
+    "Text": "取消",
+    "Bind": "MapCanvas/MapWindow/MapPos/TeletowerConfirm/Cancel/Fill/TeletowerConfirm (1)"
+  },
+  {
+    "Text": "傳送",
+    "Bind": "MapCanvas/MapWindow/MapPos/TeletowerConfirm/Confirm/Fill/TeletowerConfirm (1)"
+  },
+  {
+    "Text": "傳送到這座通訊塔？",
+    "Bind": "MapCanvas/MapWindow/MapPos/TeletowerConfirm/TeletowerConfirm (1)"
+  },
+  {
+    "Text": "地圖",
+    "Bind": "MapCanvas/MapWindow/MapPos/TopBar/TitleText"
+  },
+  {
+    "Text": "選擇照片",
+    "Bind": "MapCanvas/PhotoOnlyPos/PhotosTab/BlownUpImage/Frame/Details/ShowButton/Bin/Title (1)"
+  },
+  {
+    "Text": "取消",
+    "Bind": "MapCanvas/Journal/Pages/PhotosTab/BlownUpImage/ConfirmWindow/ConfirmBox/Cancel/Text"
+  },
+  {
+    "Text": "刪除",
+    "Bind": "MapCanvas/Journal/Pages/PhotosTab/BlownUpImage/ConfirmWindow/ConfirmBox/DeleteButton/Text"
+  },
+  {
+    "Text": "訂購",
+    "Bind": "Canvas/CatalogueWindow/Content/ItemPreviewWindow/OrderButton/Title Text (1)"
+  },
+  {
+    "Text": "您將在明天收到郵件中的物品。",
+    "Bind": "Canvas/CatalogueWindow/Content/OrderConfirmed/GameObject/GameObject"
+  },
+  {
+    "Text": "訂購成功",
+    "Bind": "Canvas/CatalogueWindow/Content/OrderConfirmed/GameObject/GameObject (1)"
+  },
+  {
+    "Text": "打開",
+    "Bind": "Canvas/MailBox/Contents/ShowLetterWindow/PostTextBorder/Open Letter/OpenButton/OPEN"
+  },
+  {
+    "Text": "新任務！",
+    "Bind": "Canvas/BullitenBoard/Content/FullScreenTask/NewStamp/New"
+  },
+  {
+    "Text": "新任務！",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton/NewStamp/New"
+  },
+  {
+    "Text": "新任務！",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton (1)/NewStamp/New"
+  },
+  {
+    "Text": "新任務！",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton (2)/NewStamp/New"
+  },
+  {
+    "Text": "新任務！",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton (3)/NewStamp/New"
+  },
+  {
+    "Text": "已接受",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton/AcceptedStamp/New"
+  },
+  {
+    "Text": "已接受",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton (2)/AcceptedStamp/New"
+  },
+  {
+    "Text": "已接受",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton (3)/AcceptedStamp/New"
+  },
+  {
+    "Text": "報酬",
+    "Bind": "Canvas/BullitenBoard/Content/FullScreenTask/RewardSlot/Reward"
+  },
+  {
+    "Text": "確認",
+    "Bind": "Canvas/BankWindow/Contents/ConvertionConfirm/Confirm/Balance"
+  },
+  {
+    "Text": "付款",
+    "Bind": "Canvas/BankWindow/Contents/TopBar (1)/PocketTitle"
+  },
+  {
+    "Text": "確認兌換",
+    "Bind": "Canvas/BankWindow/Contents/ConvertionConfirm/TitleBox/Title"
+  },
+  {
+    "Text": "取消",
+    "Bind": "Canvas/BankWindow/Contents/ChangeWindow/Cancle/Balance"
+  },
+  {
+    "Text": "取消",
+    "Bind": "Canvas/BankWindow/Contents/ConvertionConfirm/Cancle/Balance"
+  },
+  {
+    "Text": "確認",
+    "Bind": "Canvas/BankWindow/Contents/ChangeWindow/Confirm/Balance"
+  },
+  {
+    "Text": "取消",
+    "Bind": "Canvas/BankWindow/Contents/MenuButtons/Cancel/Balance"
+  },
+  {
+    "Text": "目前沒有任務",
+    "Bind": "MapCanvas/Journal/Pages/QuestWindow/QuestsTracker/NoQuestsWindow/Quest Description"
+  },
+    {
+    "Text": "已接受",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton (1)/AcceptedStamp/New"
+  },
+  {
+    "Text": "已完成",
+    "Bind": "Canvas/BullitenBoard/Content/TaskButtons/TaskButton/CompletedStamp/Completed"
+  },
+  {
+    "Text": "賺取金錢",
+    "Bind": "MapCanvas/BlackFade/LevelUp/DayEndWindow/TaskMask/TaskList/MoneyEarnt/Text"
+  },
+  {
+    "Text": "挖礦等級",
+    "Bind": "MapCanvas/BlackFade/LevelUp/DayEndWindow/TaskMask/TaskList/Level Mining/Text"
+  },
+  {
+    "Text": "種植等級",
+    "Bind": "MapCanvas/BlackFade/LevelUp/DayEndWindow/TaskMask/TaskList/Level Farming/Text"
+  },
+  {
+    "Text": "捕蟲等級",
+    "Bind": "MapCanvas/BlackFade/LevelUp/DayEndWindow/TaskMask/TaskList/Level Bug/Text"
+  },
+  {
+    "Text": "釣魚等級",
+    "Bind": "MapCanvas/BlackFade/LevelUp/DayEndWindow/TaskMask/TaskList/Level Fishing/Text"
+  },
+  {
+    "Text": "狩獵等級",
+    "Bind": "MapCanvas/BlackFade/LevelUp/DayEndWindow/TaskMask/TaskList/Level Hunting/Text"
+  },
+  {
+    "Text": "覓食等級",
+    "Bind": "MapCanvas/BlackFade/LevelUp/DayEndWindow/TaskMask/TaskList/Level Foraging/Text"
+  },
+  {
+    "Text": "修飾顏色",
+    "Bind": "Canvas/HouseCustomisation/Content/ColorOptions/Color 2/Text"
+  },
+  {
+    "Text": "主體顏色",
+    "Bind": "Canvas/HouseCustomisation/Content/ColorOptions/Color 1/Text"
+  },
+  {
+    "Text": "(按住) 移動滑鼠",
+    "Bind": "MapCanvas/Tutorial/CameraTutorial/Keyboard/Sub/Title (1)"
+  },
+  {
+    "Text": "移動視角",
+    "Bind": "MapCanvas/Tutorial/CameraTutorial/Title"
+  },
+  {
+    "Text": "打開揹包",
+    "Bind": "MapCanvas/Tutorial/Bag Tutorial/Title"
+  },
+  {
+    "Text": "返回主界面",
+    "Bind": "MapCanvas/Journal/SettingJournalClosed/ReturnToMenu/Title"
+  },
+  {
+    "Text": "設定",
+    "Bind": "MapCanvas/Journal/SettingJournalClosed/SettingJournalClosed/Title"
+  },
+  {
+    "Text": "取消",
+    "Bind": "MapCanvas/Journal/SettingJournalClosed/ConfirmQuit/Cancel/Title"
+  },
+  {
+    "Text": "你將失去上次睡覺以來的所有進度。",
+    "Bind": "MapCanvas/Journal/SettingJournalClosed/ConfirmQuit/UI"
+  },
+  {
+    "Text": "退出",
+    "Bind": "MapCanvas/Journal/SettingJournalClosed/ConfirmQuit/Quit/Title"
+  },
+  {
+    "Text": "任務",
+    "Bind": "MapCanvas/Journal/QuestWindow/NutBack/Title"
+  },
+  {
+    "Text": "四處移動",
+    "Bind": "MapCanvas/Tutorial/WalkTutorial/Title"
+  },
+  {
+    "Text": "任務",
+    "Bind": "MapCanvas/Journal/QuestWindow/QuestsTracker/NoQuestsWindow/NutBack (1)/Title"
+  },
+  {
+    "Text": "目前沒有任務",
+    "Bind": "MapCanvas/Journal/QuestWindow/QuestsTracker/NoQuestsWindow/Quest Description"
+  },
+  {
+    "Text": "你確定退出嗎？",
+    "Bind": "MapCanvas/Journal/SettingJournalClosed/ConfirmQuit/Title (1)"
+  },
+  {
+    "Text": "空位",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Fake/PlayerButton/PlayerName (1)"
+  },
+  {
+    "Text": "空位",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Fake/PlayerButton/PlayerName (2)"
+  },
+  {
+    "Text": "空位",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Fake/PlayerButton (1)/PlayerName (3)"
+  },
+  {
+    "Text": "邀請",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Fake/FakeInvite/Title"
+  },
+  {
+    "Text": "邀請",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Multiplayer (1)/InviteButton/Title"
+  },
+  {
+    "Text": "<sprite=17> 好友遊戲",
+    "Bind": "MapCanvas/MenuScreen/Multiplayer/Contents/SearchForGame/SearchSettingsButtons/Friends/Text"
+  },
+  {
+    "Text": "<sprite=17> 公共遊戲",
+    "Bind": "MapCanvas/MenuScreen/Multiplayer/Contents/SearchForGame/SearchSettingsButtons/Public/Text"
+  },
+  {
+    "Text": "未找到遊戲",
+    "Bind": "MapCanvas/MenuScreen/Multiplayer/Contents/SearchForGame/SlotMask (1)/SlotScrollArea/No Games Found"
+  },
+  {
+    "Text": "加入遊戲",
+    "Bind": "MapCanvas/MenuScreen/Multiplayer/Contents/TopBar/Title"
+  },
+  {
+    "Text": "刪除存檔？",
+    "Bind": "MapCanvas/MenuScreen/LoadGameWindow/Contents/SlotMask/SlotScrollArea/SaveSlot(Clone)/DeleteSaveWindow/Text"
+  },
+  {
+    "Text": "否",
+    "Bind": "MapCanvas/MenuScreen/LoadGameWindow/Contents/SlotMask/SlotScrollArea/SaveSlot(Clone)/DeleteSaveWindow/No/Text"
+  },
+  {
+    "Text": "是",
+    "Bind": "MapCanvas/MenuScreen/LoadGameWindow/Contents/SlotMask/SlotScrollArea/SaveSlot(Clone)/DeleteSaveWindow/Yes/Text"
+  },
+  {
+    "Text": "無新郵件",
+    "Bind": "Canvas/MailBox/Contents/No Messages Screen/Quest Description"
+  },
+  {
+    "Text": "踢出",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Multiplayer (1)/PlayerButton (0)/KickButton/GameObject"
+  },
+  {
+    "Text": "踢出",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Multiplayer (1)/PlayerButton (1)/KickButton/GameObject"
+  },
+  {
+    "Text": "踢出",
+    "Bind": "MapCanvas/Journal/Pages/Options/Contents/MultiplayerOptions/Multiplayer (1)/PlayerButton (2)/KickButton/GameObject"
+  },
+  {
+    "Text": "取消",
+    "Bind": "MapCanvas/MenuScreen/Multiplayer/Contents/ConnectingScreen/CancleButton/Text"
+  },
+  {
+    "Text": "返回主菜單",
+    "Bind": "MapCanvas/SessionHasEndedScreen/Return to Menu/Text"
+  },
+  {
+    "Text": "房間已關閉。",
+    "Bind": "MapCanvas/SessionHasEndedScreen/TopNotification/Content/Verticle/LittleText"
+  },
+  {
+    "Text": "您已斷開連線。",
+    "Bind": "MapCanvas/SessionHasEndedScreen/TopNotification/Content/Verticle/Text"
+  },
+  {
+    "Text": "放置后所需的建築材料",
+    "Bind": "Canvas/TownManager/Contents/ConfirmDeedWindow/Ingredients/Title"
+  },
+  {
+    "Text": "城鎮債務增加",
+    "Bind": "Canvas/TownManager/Contents/ConfirmDeedWindow/Cost/CostBack/TownDebt"
+  },
+  {
+    "Text": "接受",
+    "Bind": "Canvas/TownManager/Contents/ConfirmDeedWindow/ApplyButton/Price"
+  },
+  {
+    "Text": "所需材料",
+    "Bind": "Canvas/GiveNPCWindow/ConstructionBox/PocketTitle"
+  },
+  {
+    "Text": "全部",
+    "Bind": "Canvas/CatalogueWindow/Content/WindowBack (1)/ClothingButtons/ClothingTopBar/All/Text (1)"
+  },
+  {
+    "Text": "全部",
+    "Bind": "Canvas/CatalogueWindow/Content/WindowBack (1)/FurnitureButtons/TopBar/All/Text (1)"
+  },
+  {
+    "Text": "全部",
+    "Bind": "Canvas/CraftWindow/Contents/WindowBack (1)/CraftSortButtons/AllButton/Arrow (1)"
+  },
+  {
+    "Text": "全部",
+    "Bind": "Canvas/CraftWindow/Contents/WindowBack (1)/DummyButtons/AllButton/Arrow (1)"
+  },
+  {
+    "Text": "取消",
+    "Bind": "MapCanvas/Journal/Pages/FarmAnimalTab/Inspect/ConfirmSellAnimal/Cancel/Text"
+  },
+  {
+    "Text": "出售",
+    "Bind": "MapCanvas/Journal/Pages/FarmAnimalTab/Inspect/ConfirmSellAnimal/SellButton/Text"
+  },
+  {
+    "Text": "給動物起個名？",
+    "Bind": "Canvas/FarmAnimalWindow/BuyAndNameWindow/Title"
+  },
+  {
+    "Text": "購買",
+    "Bind": "Canvas/FarmAnimalWindow/BuyAndNameWindow/Buy/Text"
+  },
+  {
+    "Text": "可與風車配合",
+    "Bind": "CursorCanvas/Cursor/Inv Descriptions/Windmill Compatible/Amount"
+  },
+  {
+    "Text": "鳴謝",
+    "Bind": "MapCanvas/MenuScreen/CornerStuff/CreditsButton/VersionNumber (1)"
+  },
+  {
+    "Text": "由 James Bendon 開發þ",
+    "Bind": "MapCanvas/MenuScreen/Credits/Credits/Title"
+  },
+  {
+    "Text": "我非常感謝我優秀的妻子Alexandra的支援。þþ",
+    "Bind": "MapCanvas/MenuScreen/Credits/Credits/Title/Alex"
+  },
+  {
+    "Text": "特別鳴謝",
+    "Bind": "MapCanvas/MenuScreen/Credits/Credits/Special Thanks"
+  },
+  {
+    "Text": "音效來自",
+    "Bind": "MapCanvas/MenuScreen/Credits/Credits/VoicesBy"
+  },
+  {
+    "Text": "音樂來自 Satsuma Audio þ(Lawrence Steele) þþ",
+    "Bind": "MapCanvas/MenuScreen/Credits/Credits/Music"
+  },
+  {
+    "Text": "我承認Wiradjuri、Bindal和Wulgurukaba民族在這片土地上的傳統擁有者（也就是本遊戲的原型）的地位。我曾經、現在以及未來都會尊敬他們，珍視其文化和其作為第一批這片土地上的澳大利亞人所擁有的志向。",
+    "Bind": "MapCanvas/MenuScreen/Credits/Credits/Acknowledgment"
+  },
+  {
+    "Text": "Matthew GilmanþJames NuttingþMorgan PughþMatthew Skingleþ32-33 / The Naporasþ<b>漢    化</b>                                     .þ宵夜97  law_4x  三無老肥宅  Petallyric                                     .þ",
+    "Bind": "MapCanvas/MenuScreen/Credits/Credits/Special Thanks/Names"
+  },
+  {
+    "Text": "自動檢測手柄",
+    "Bind": "MapCanvas/MenuScreen/OptionWindow/Content/OptionMask/ButtonParent/Controls/AutoDetectController/Lable"
+  },
+  {
+    "Text": "小地圖固定朝北",
+    "Bind": "MapCanvas/MenuScreen/OptionWindow/Content/OptionMask/ButtonParent/Controls/MapFacesNorth/Lable"
+  },
+  {
+    "Text": "總分",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/OverallScore/Title"
+  },
+  {
+    "Text": "城鎮獎勵",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/Awards"
+  },
+  {
+    "Text": "設施",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/Awards/AwardIcons/AmenitiesAward/TitleBack/Title"
+  },
+  {
+    "Text": "博物館",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/Awards/AwardIcons/MuseumAward/TitleBack/Title"
+  },
+  {
+    "Text": "經濟",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/Awards/AwardIcons/Economy/TitleBack/Title"
+  },
+  {
+    "Text": "美麗",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/Awards/AwardIcons/BeautyAward/TitleBack/Title"
+  },
+  {
+    "Text": "許可證",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/Awards/AwardIcons/Licence/TitleBack/Title"
+  },
+  {
+    "Text": "幸福",
+    "Bind": "Canvas/TownManager/Contents/AwardWindow/Awards/AwardIcons/HappinessAward/TitleBack/Title"
+  },
+  {
+    "Text": "",
+    "Bind": ""
+  }
+]
